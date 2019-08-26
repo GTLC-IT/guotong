@@ -8,4 +8,11 @@
 
     $ hello world 
 
+```js
+function(a1,a2){
+  console.log("hello markdown")
+}
+```
+
+![图片](https://raw.githubusercontent.com/yaoxs7503/cloudimg/master/data/3.gif)
 
