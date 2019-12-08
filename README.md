@@ -31,5 +31,4 @@ function(a1,a2){
 ```
 > Letex
 
-$y=x^2$
 
